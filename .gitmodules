@@ -1,0 +1,3 @@
+[submodule "themes/techdoc"]
+	path = themes/techdoc
+	url = https://github.com/izio7/hugo-theme-techdoc.git
